@@ -142,7 +142,13 @@ li:hover{
     main {
         height: 90vh;
     }
- 
+    header div{
+        width: 80px;
+        height: 80px;
+        margin: auto;
+        border-radius: 50%;
+        margin-bottom: 20px;
+    }
 
   }
 
@@ -150,5 +156,12 @@ li:hover{
     main {
         height: 90vh;
     }
- 
+    header div{
+        width: 80px;
+        height: 80px;
+        margin: auto;
+        border-radius: 50%;
+        margin-bottom: 20px;
+    }
+
   }
