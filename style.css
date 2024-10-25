@@ -94,7 +94,7 @@ header span{
     font-size: 0.9rem;
     color: var(--green-color);
     display: block;
-    margin-bottom: 25px;
+    margin-bottom: 15px;
     font-weight: var(--font-weight-semibold);
 }
 
@@ -105,7 +105,7 @@ header p{
 }
 
 .social-links{
-    height: 58%;
+    height: 55%;
     width: 90%;
     display: flex;
     justify-content: center;
@@ -140,13 +140,15 @@ li:hover{
 
 @media (min-width: 769px) and (max-width: 1024px) {
     main {
-      width: 380px;
-      
+        height: 90vh;
     }
+ 
+
   }
 
   @media (min-width: 1025px) {
     main {
-      width: 380px;
+        height: 90vh;
     }
+ 
   }
